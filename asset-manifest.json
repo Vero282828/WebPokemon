@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WebPokemon.github.io/static/css/main.9dcbbc6a.chunk.css",
+    "main.js": "/WebPokemon.github.io/static/js/main.c4d24590.chunk.js",
+    "main.js.map": "/WebPokemon.github.io/static/js/main.c4d24590.chunk.js.map",
+    "runtime-main.js": "/WebPokemon.github.io/static/js/runtime-main.c2d08977.js",
+    "runtime-main.js.map": "/WebPokemon.github.io/static/js/runtime-main.c2d08977.js.map",
+    "static/css/2.150d169a.chunk.css": "/WebPokemon.github.io/static/css/2.150d169a.chunk.css",
+    "static/js/2.4fde7ad1.chunk.js": "/WebPokemon.github.io/static/js/2.4fde7ad1.chunk.js",
+    "static/js/2.4fde7ad1.chunk.js.map": "/WebPokemon.github.io/static/js/2.4fde7ad1.chunk.js.map",
+    "index.html": "/WebPokemon.github.io/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/WebPokemon.github.io/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.9dcbbc6a.chunk.css.map": "/WebPokemon.github.io/static/css/main.9dcbbc6a.chunk.css.map",
+    "static/js/2.4fde7ad1.chunk.js.LICENSE.txt": "/WebPokemon.github.io/static/js/2.4fde7ad1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2d08977.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.4fde7ad1.chunk.js",
+    "static/css/main.9dcbbc6a.chunk.css",
+    "static/js/main.c4d24590.chunk.js"
+  ]
+}
